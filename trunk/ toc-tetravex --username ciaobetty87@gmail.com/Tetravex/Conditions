@@ -1,0 +1,3 @@
+- Ogni elemento deve avere exactly 1 position: 
+- 2 elementi adiacienti devono avere lo stesso numero in poszione contraria (N-S , E-O)
+- 
