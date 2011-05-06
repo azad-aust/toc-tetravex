@@ -1,5 +1,5 @@
 package data_structure;
 
-public class Element {
+public class Tile {
 
 }
